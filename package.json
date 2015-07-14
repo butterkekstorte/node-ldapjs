@@ -8,15 +8,16 @@
     "Yunong Xiao <yunong@joyent.com>",
     "Denis Vuyka <denis.vuyka@gmail.com>",
     "Pedro Palazón <kusorbox@gmail.com>",
-    "Patrick Mooney <patrick.f.mooney@gmail.com>"
+    "Patrick Mooney <patrick.f.mooney@gmail.com>",
+    "Hendrik 'Xendo' Meyer <mail@xendo.red>"
   ],
-  "name": "ldapjs",
+  "name": "ldapjs-hotfix",
   "homepage": "http://ldapjs.org",
-  "description": "LDAP client and server APIs",
-  "version": "0.7.1",
+  "description": "LDAP client and server APIs (Hotfixed)",
+  "version": "0.7.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mcavage/node-ldapjs.git"
+    "url": "git://github.com/butterkekstorte/node-ldapjs.git"
   },
   "main": "lib/index.js",
   "directories": {
