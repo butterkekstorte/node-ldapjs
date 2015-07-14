@@ -14,7 +14,7 @@
   "name": "ldapjs-hotfix",
   "homepage": "http://ldapjs.org",
   "description": "LDAP client and server APIs (Hotfixed for Node 0.12.x)",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/butterkekstorte/node-ldapjs.git"
